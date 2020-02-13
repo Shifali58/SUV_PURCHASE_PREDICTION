@@ -1,2 +1,19 @@
 # SUV_PURCHASE_PREDICTION
-Predicting if an employee will purchase an suv given their age and salary using Logistic Regression
+
+INTRODUCTION:
+Its a training project and this file consist of python coding that contains the prediction of SUV_PURCHASE_PREDICTION. 
+first, you need to download  the CSV File.
+
+PACKAGE:
+numpy;
+matplotlib;
+pandas
+seaborn;
+sklearn;
+scipy
+
+ALGORITHM:
+Logistic Regression.
+
+CONCLUSION:
+PREDICTING SUV_PURCHASE AND VISUALIZES DATA BY APPLYING ALGORITHM WHICH GIVES THE BEST ACCURACY TO THE MODEL AT THE CORE RATE OF 83%. AT LAST YOU WILL SEE THE CONFUSION METRICS WHICH SHOWS THE ACTUAL AND PREDICTED PURCHASE.
